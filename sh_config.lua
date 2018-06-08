@@ -1,13 +1,13 @@
 infoPrices = {
-	[1] = {
+	[1] = { -- prix point weed
 		8500,
 		9856,
 	},
-	[2] = {
+	[2] = { -- prix point coke
 		17852,
 		19452,
 	},
-	[3] = {
+	[3] = { -- prix point meth
 		26541,
 		29485,
 	},
@@ -20,7 +20,7 @@ priceSurgery = 1000
 
 copsEnough = 3
 
-candidatElection = {"Alex Brant", "Arthur Popov", "James Marow", "Jimmy Henri"}
+candidatElection = {}
 
 plyWeight = 32.0
 
@@ -255,7 +255,7 @@ vehiclesPrices = {
 	["sc1"] = 375000,
 	["sheava"] = 190000,
 	["sultanrs"] = 180000,
-	["t20"] = 55000,
+	["t20"] = 550000,
 	["tempesta"] = 320000,
 	["turismor"] = 530000,
 	["tyrus"] = 550000,
