@@ -1,39 +1,39 @@
 job_list = {
-	[1] = { name = "Citoyen", salary = 10 },
-	[2] = { name = "Avocat", salary = 50, p = true },
-	[3] = { name = "Vodka", salary = 8, p = true }, -- 2
-	[4] = { name = "Chauffeur privé", salary = 20, p = true }, -- 4
-	[6] = { name = "Éboueur", salary = 10 },
-	[7] = { name = "Dépanneur", salary = 20, p = true}, --7
-	[8] = { name = "Médecin", salary = 60, p = true},
-	[9] = { name = "Chef des médecins", salary = 70, p = true },
+	[1] = { name = "Citoyen", salary = 48 },
+	[2] = { name = "Avocat", salary = 160, p = true },
+	[3] = { name = "Vodka", salary = 64, p = true }, -- 2
+	[4] = { name = "Chauffeur privé", salary = 72, p = true }, -- 4
+	[6] = { name = "Éboueur", salary = 48 },
+	[7] = { name = "Dépanneur", salary = 72, p = true}, --7
+	[8] = { name = "Médecin", salary = 140, p = true},
+	[9] = { name = "Chef des médecins", salary = 220, p = true },
 
-	[10] = { name = "LSPD Cadet", salary = 50, p = true},
-	[11] = { name = "LSPD Officier", salary = 55, p = true},
-	[12] = { name = "LSPD Sergent", salary = 60, p = true},
-	[13] = { name = "LSPD Sergent Chef", salary = 65, p = true},
-	[14] = { name = "LSPD Lieutenant", salary = 67, p = true},
-	[15] = { name = "LSPD Capitaine", salary = 70, p = true},
-	[16] = { name = "LSPD SAHP", salary = 65, p = true},
+	[10] = { name = "LSPD Cadet", salary = 120, p = true},
+	[11] = { name = "LSPD Officier", salary = 160, p = true},
+	[12] = { name = "LSPD Sergent", salary = 200, p = true},
+	[13] = { name = "LSPD Sergent Chef", salary = 240, p = true},
+	[14] = { name = "LSPD Lieutenant", salary = 280, p = true},
+	[15] = { name = "LSPD Capitaine", salary = 320, p = true},
+	[16] = { name = "LSPD SAHP", salary = 240, p = true},
 
-	[17] = { name = "Secret service", salary = 70, p = true}, -- 17
-	[18] = { name = "Gouverneur", salary = 100, p = true}, -- 18
+	[17] = { name = "Secret service", salary = 120, p = true}, -- 17
+	[18] = { name = "Gouverneur", salary = 400, p = true}, -- 18
 
-	[25] = { name = "War Dog", salary = 8, p = true },
-	[26] = { name = "Jefferson's Farm", salary = 8, p = true },
-	[27] = { name = "Gacha Airlines", salary = 8, p = true },
-	[28] = { name = "Boxing Is Life", salary = 10, p = true },
-	[29] = { name = "Darnell Bros", salary = 8, p = true },
+	[25] = { name = "War Dog", salary = 64, p = true },
+	[26] = { name = "Jefferson's Farm", salary = 64, p = true },
+	[27] = { name = "Gacha Airlines", salary = 56, p = true },
+	[28] = { name = "Boxing Is Life", salary = 64, p = true },
+	[29] = { name = "Darnell Bros", salary = 64, p = true },
 
-	[30] = { name = "Pacific Bank", salary = 24, p = true },
-	[31] = { name = "Filou", salary = 33, p = true },
-	[33] = { name = "DOA", salary = 59, p = true },
-	[34] = { name = "Procureur", salary = 32, p = true},
+	[30] = { name = "Pacific Bank", salary = 56, p = true },
+	[31] = { name = "Filou", salary = 44, p = true },
+	[33] = { name = "DOA", salary = 240, p = true },
+	[34] = { name = "Procureur", salary = 240, p = true},
 	[35] = { name = "Prisonnier", salary = 1, p = true },
 
-	[38] = { name = "Agent immobilier", salary = 20, p = true },
-	[39] = { name = "Concessionnaire", salary = 12, p = true },
-	[40] = { name = "Epicier", salary = 25, p = true },
+	[38] = { name = "Agent immobilier", salary = 72, p = true },
+	[39] = { name = "Concessionnaire", salary = 64, p = true },
+	[40] = { name = "Epicier", salary = 86, p = true },
 }
 
 infoPrices = {
